@@ -1,10 +1,10 @@
 # Carrera-de-caballos-2.0
 
-- Tarea Numero 1 sobre un un hipodromo
-  - Introduccion
+- Tarea Numero 1 sobre un hipódromo.
+  - Introducción
   - uso del programa
 
-### Introduccion
+### Introducción
 
 Lenguaje en Java
 Autores; Nahuelhual Rayen - Pizarro Patricio
